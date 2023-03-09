@@ -1,5 +1,14 @@
 # MLRegressionFromScratch
-Try to collect and revise typical Machine learning regression models from scratch to increase the adjustability of the different parameters for non-computer scientists' usages.
+Try to collect and revise typical Machine learning regression models from scratch to increase the adjustability of the different parameters for non-computer scientists' usages.In the following list you see the discussed algorithms in this repo:
+1. Linear Regression
+2. Polynomial Regression
+3. Ridge Regression
+4. Lasso Regression
+5. Support Vector Regression (SVR)
+6. Decision Tree Regression
+7. Random Forest Regression
+8. Gradient Boosting Regression
+9. Neural Network Regression
 
 ## Linear Regression
 Linear regression is one of the simplest regression models that has various applications in different areas of scinece and engineering. this regression produce an output by an weighted average of the inputs. inputs are typically the effective parameters and the output tepresents the target variable in the experiment.
