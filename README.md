@@ -25,7 +25,8 @@ $$ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n$$
 
 ## Polynomial Regression
 An nth-degree polynomial representing the relationship between independent variables (x) and dependent variables (y) is called a polynomial regression. Basically, polynomial regression is used when there is no linear relationship between the variables but can be approximated by a polynomial function. Polynomial regression is a form of nonlinear regression, as it models the relationship between the variables using a nonlinear function.
-$$ y = \beta_0 + \beta_1 x+ \beta_2 x^2 + ... + \beta_n x^2$$
+
+$$ y = \beta_0 + \beta_1 x+ \beta_2 x^2 + ... + \beta_n x^n$$
 
 
 
